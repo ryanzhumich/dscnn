@@ -3,7 +3,7 @@ Code for the paper [Dependency Sensitive Convolutional Neural Networks for Model
 
 Demo with [TREC](http://cogcomp.cs.illinois.edu/Data/QA/QC) dataset
 
-The implementation is based on https://github.com/yoonkim/CNN_sentence and deeplearning.net/tutorial/lstm.html
+The implementation is based on https://github.com/yoonkim/CNN_sentence and http://deeplearning.net/tutorial/lstm.html
 
 ## Dependencies
 - Python (2.7)
