@@ -21,12 +21,14 @@ Download those word embeddings and save them as:
 ## Data Preprocessing
 
 ```
+cd code/preprocess/
 python process_trec.py
 ```
 
 ## Run Demo with Training and Testing
 
 ```
+cd code/
 ./run_trec_demo.sh 
 ```
 
