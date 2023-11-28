@@ -1,4 +1,5 @@
-this was so far the best project i have work with.
+this was so far the best project i have work with
+hell.
 # Dependency Sensitive Convolutional Neural Networks
 Code for the paper [Dependency Sensitive Convolutional Neural Networks for Modeling Sentences and Documents](https://arxiv.org/abs/1611.02361) (NAACL 2016)
 
